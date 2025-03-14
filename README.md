@@ -10,11 +10,21 @@ Este repositório contém templates reutilizáveis para construir aplicações b
 
 O repositório está organizado com os seguintes templates:
 
-- **Agente com Memória**: Template para agentes de IA com ferramentas e memória
-- **Agente**: Template para agentes de IA com ferramentas
+- **Agentes sem ou com Memória**: Template para agentes de IA com ferramentas e memória
+
+![Agentes](graphs/agent.png)
+
 - **Chatbot com Resumo**: Template para chatbots com histórico de conversas utilizando resumos
+
+![Chatbot com Resumo](graphs/chatbot_summary.png)
+
 - **Chatbot com Filtro**: Template para chatbots com histórico de conversas utilizando filtros
+
+![Chatbot com Filtro](graphs/filter.png)
+
 - **Roteador**: Template para roteadores de conversas
+
+![Roteador](graphs/router.png)
 
 ## Requisitos
 
