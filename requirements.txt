@@ -1,0 +1,6 @@
+langgraph
+langgraph-sdk
+langchain-community
+langchain-core
+langchain-openai
+notebook
